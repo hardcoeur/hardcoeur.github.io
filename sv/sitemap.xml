@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hardcoeur.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hardcoeur.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://hardcoeur.github.io/"
-                />
-  </url><url>
     <loc>https://hardcoeur.github.io/posts/aiprsocmedkonsekvenser/</loc>
   </url><url>
     <loc>https://hardcoeur.github.io/categories/</loc>
@@ -31,6 +19,18 @@
     <loc>https://hardcoeur.github.io/posts/rubinroda/</loc>
   </url><url>
     <loc>https://hardcoeur.github.io/posts/eneraavcynism/</loc>
+  </url><url>
+    <loc>https://hardcoeur.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hardcoeur.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://hardcoeur.github.io/"
+                />
   </url><url>
     <loc>https://hardcoeur.github.io/about/</loc>
   </url><url>
