@@ -29,17 +29,6 @@ Främst handlar det om att förstå att vi i Sverige klarat oss otroligt lindrig
     </item>
     
     <item>
-      <title>Den rubinröda vägen</title>
-      <link>https://hardcoeur.github.io/posts/socmeddesibubbla/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hardcoeur.github.io/posts/socmeddesibubbla/</guid>
-      <description>Det kommer så mycket information just nu. Allt från varningar om algeriska gatusamurajer som hackar en gibson skitlätt med sina helautomatiserade rymdkommunist-botnätverk till den kommande deepfake-apokalypsen, alltmedan verifierade konton sprider desinformation och konspirationsteorier som alla glömt efter ett par dar.
-Det är skitirriterande.
-Informationsmiljön, kommunikationsytorna, som sociala medier möjliggör är så jävla skitenkla att utnyttja, att det enda som krävs är en avsaknad av moral och förmågan tänka blott ett steg före den du polemiserar med.</description>
-    </item>
-    
-    <item>
       <title>Om</title>
       <link>https://hardcoeur.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,6 +46,17 @@ för kontakt, dra iväg ett mail på hardcoeur snabel-a tutanota punkt com</desc
       <guid>https://hardcoeur.github.io/om/about/</guid>
       <description>Om en jag.  Helt under konstruktion. 
 för kontakt, dra iväg ett mail på hardcoeur snabel-a tutanota punkt com</description>
+    </item>
+    
+    <item>
+      <title>Sociala medier och desinformationsbubblor</title>
+      <link>https://hardcoeur.github.io/posts/socmeddesibubbla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardcoeur.github.io/posts/socmeddesibubbla/</guid>
+      <description>Det kommer så mycket information just nu. Allt från varningar om algeriska gatusamurajer som hackar en gibson skitlätt med sina helautomatiserade rymdkommunist-botnätverk till den kommande deepfake-apokalypsen, alltmedan verifierade konton sprider desinformation och konspirationsteorier som alla glömt efter ett par dar.
+Det är skitirriterande.
+Informationsmiljön, kommunikationsytorna, som sociala medier möjliggör är så jävla skitenkla att utnyttja, att det enda som krävs är en avsaknad av moral och förmågan tänka blott ett steg före den du polemiserar med.</description>
     </item>
     
   </channel>
