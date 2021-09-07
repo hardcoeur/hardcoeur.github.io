@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hardcoeur.github.io/posts/forsvarshogskolanmegaderp/</loc>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hardcoeur.github.io/</loc>
-    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,10 +18,10 @@
                 href="https://hardcoeur.github.io/"
                 />
   </url><url>
-    <loc>https://hardcoeur.github.io/posts/omattligspecialiseringledertillsvaridioti/</loc>
-    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hardcoeur.github.io/posts/</loc>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hardcoeur.github.io/posts/omattligspecialiseringledertillsvaridioti/</loc>
     <lastmod>2021-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hardcoeur.github.io/posts/valjarnasfelverkligen/</loc>
