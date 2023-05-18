@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hardcoeur</title>
-    <link>https://hardcoeur.github.io/</link>
-    <description>Recent content on Hardcoeur</description>
+    <title>first on Hardcoeur</title>
+    <link>https://hardcoeur.github.io/tags/first/</link>
+    <description>Recent content in first on Hardcoeur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://hardcoeur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://hardcoeur.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>svarta lådor är svarta.</title>
       <link>https://hardcoeur.github.io/svartalador/</link>
